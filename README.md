@@ -2,6 +2,7 @@
 # Leetcode-Solutions
 This repository contains Leetcode Solutions in C++
 
+**Note: Not actively posting solutions. [My Leetcode Profile](https://leetcode.com/krishrahul98/)**
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/krishrahul98/Leetcode-Solutions?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/krishrahul98/Leetcode-Solutions?style=for-the-badge)
